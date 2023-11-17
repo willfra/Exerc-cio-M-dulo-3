@@ -39,7 +39,7 @@ input#password {
     border-radius: 20px;
     padding: 10px;
 }
-input#submit {
+button#submit {
     background-color: #8d63ff;
     border: none;
     padding: 20px;
